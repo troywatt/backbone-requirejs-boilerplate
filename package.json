@@ -1,0 +1,21 @@
+{
+    "name": "backbone-requirejs-boilerplate",
+    "version": "0.0.1",
+    "private": true,
+    "description": "backbone boilerplate with requirejs",
+    "main": "index.js",
+    "dependencies": {
+        "requirejs": "latest"
+        , "express": "latest"
+        , "jade": "latest"
+    },
+    "devDependencies": {
+        "mocha": "latest"
+        , "chai": "latest"
+        , "grunt": "latest"
+        , "grunt-exec": "latest"
+    },
+    "repository": "",
+    "author": "troy watt",
+    "license": "BSD"
+}
